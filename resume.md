@@ -168,10 +168,8 @@ BIND 9 DNS, Active Directory, OpenLDAP, Samba, NFS, Postfix, SMTP
 - Key contributor to over $200,000 in fundraising for other local charities
 
 1997 **Boys Scouts of America**
-
-* Eagle Scout Award
-
-* Order of the Arrow Vigil Award
+- Eagle Scout Award
+- Order of the Arrow Vigil Award
 
 **Techncial Presentations**
 
