@@ -149,27 +149,30 @@ BIND 9 DNS, Active Directory, OpenLDAP, Samba, NFS, Postfix, SMTP
 
 **Google Certification #zaVWvt**
 - Google Certified Professional Cloud Architect (May 2021)
-**Volunteering and Rewards**
+
+**Volunteering, Speaking  and Rewards**
 
 ------------------------
 2013 - Present **Huntington's Disease Society of America**
-* Serve on the affiliate Board of Directors
-* Have helped increase fund raising goals
-* Working towards full Chapter status with the HDSA
-
+- Albany Chapter Board Member
+ 
+**Speaking Engagements**
+- 2018 - National Convention
+- 2018 - Albany Education Day
+- 2017 - NYC Education Day
 
 2005 - Present **Albany Society for the Advancement of Philanthropy**
-
-* Currently Serve as Chairman of the Board
-
-* Served on Board of Directors as Chief Technology Officer.
-
-* Have helped raise over $50,000 for local charities
-
-
+- Chairman of the Board
+- Key contributor to over $200,000 in fundraising for other local charities
 
 1997 **Boys Scouts of America**
 
 * Eagle Scout Award
 
 * Order of the Arrow Vigil Award
+
+**Techncial Presentations**
+All talks have been internal to Rackspace
+- 2019 - Integrating Ansible with Rackspace Tooling (short talk, internal engineering forums)
+- 2018 - Ansible 101 (internal engineering conference)
+- 2016 - Magento Training for system administrators and engineers (part of 2 person team who provided training to over a hundred Rackers)
