@@ -167,7 +167,7 @@ BIND 9 DNS, Active Directory, OpenLDAP, Samba, NFS, Postfix, SMTP
 - Chairman of the Board
 - Key contributor to over $200,000 in fundraising for other local charities
 
-1997 **Boys Scouts of America**
+1997 -  **Boy Scouts of America**
 - Eagle Scout Award
 - Order of the Arrow Vigil Award
 
