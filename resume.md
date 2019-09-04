@@ -114,12 +114,19 @@ Summers 1997-1999, Winter 1999 **Graver Water Systems, INC** New Providence, NJ
 ----------------
 
 **Operating Systems** Red Hat, Ubuntu, Debian, Microsoft Windows Server, VMWare ESXi, PFSense, MacOS
+
 **Cloud Platforms**Rackspace Cloud, AWS, GCP, Linode
+
 **System Automation:** Ansible, Python, Bash, Perl, PHP, Puppet
+
 **Application Platforms:** Apache, NGINX, PHP-FPM, mod-jk, Tomcat, NodeJS
+
 **Database Systems:** Percona MySQL Clusters, MongoDB Clusters,Monitoring, Tuning,  Backup and Recovery.
+
 **Caching Systems:** APC, Redis, Memcached
-**Networking** PFSense (routing,firewall,high availability), iptables, Squid, OpenSSH, OpenVPN, Linux Bonding and Bridging, BIND 9 DNS, Active Directory, OpenLDAP, Samba, NFS, Postfix, SMTP
+
+**Networking** PFSense (routing,firewall,high availability), iptables, Squid, OpenSSH, OpenVPN, Linux Bonding and Bridging, 
+BIND 9 DNS, Active Directory, OpenLDAP, Samba, NFS, Postfix, SMTP
 
 
 **Education**
