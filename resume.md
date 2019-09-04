@@ -172,7 +172,9 @@ BIND 9 DNS, Active Directory, OpenLDAP, Samba, NFS, Postfix, SMTP
 * Order of the Arrow Vigil Award
 
 **Techncial Presentations**
+
 All talks have been internal to Rackspace
+
 - 2019 - Integrating Ansible with Rackspace Tooling (short talk, internal engineering forums)
 - 2018 - Ansible 101 (internal engineering conference)
 - 2016 - Magento Training for system administrators and engineers (part of 2 person team who provided training to over a hundred Rackers)
