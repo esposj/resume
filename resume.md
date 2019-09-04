@@ -1,11 +1,9 @@
-Joseph E. Esposito
-==================
-
+# Joseph E. Esposito
 
 10304 Admirals Walk Drive Cohoes, NY 12047 | 518-542-8383 | joe@j-espo.com
 
 
-##Professional Experience
+## Professional Experience
 
 November 2013 - Present **Rackspace, The #1 Managed Cloud Company, San Antonio, TX (Remote)**
 *Linux Systems Administrator II*
