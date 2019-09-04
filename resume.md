@@ -133,11 +133,12 @@ BIND 9 DNS, Active Directory, OpenLDAP, Samba, NFS, Postfix, SMTP
 
 ---------
 
-1997-2002 **Rensselaer Polytechnic Institute Troy, NY **
+1997-2002 **Rensselaer Polytechnic Institute Troy, NY**
 
 *Bachelor of Science in Computer Systems Engineering*
 
 1993-1997 **Bergen Catholic High School Oradell, NY**
+
 
 **Certifications**
 
@@ -149,6 +150,7 @@ BIND 9 DNS, Active Directory, OpenLDAP, Samba, NFS, Postfix, SMTP
 
 **Google Certification #zaVWvt**
 - Google Certified Professional Cloud Architect (May 2021)
+
 
 **Volunteering, Speaking  and Rewards**
 
