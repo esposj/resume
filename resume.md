@@ -5,9 +5,8 @@ Joseph E. Esposito
 10304 Admirals Walk Drive Cohoes, NY 12047 | 518-542-8383 | joe@j-espo.com
 
 
-**Professional Experience**
+##Professional Experience
 
------------------------
 November 2013 - Present **Rackspace, The #1 Managed Cloud Company, San Antonio, TX (Remote)**
 *Linux Systems Administrator II*
 
@@ -109,9 +108,8 @@ Summers 1997-1999, Winter 1999 **Graver Water Systems, INC** New Providence, NJ
 * Worked with client's IT departments to test and verify systems for field deployment.
 
 
-**Technical Skills**
+##Technical Skills
 
-----------------
 
 **Operating Systems** Red Hat, Ubuntu, Debian, Microsoft Windows Server, VMWare ESXi, PFSense, MacOS
 
