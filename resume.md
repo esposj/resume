@@ -146,7 +146,6 @@ BIND 9 DNS, Active Directory, OpenLDAP, Samba, NFS, Postfix, SMTP
 
 ## Volunteering, Speaking  and Rewards
 
-------------------------
 2013 - Present **Huntington's Disease Society of America**
 - Albany Chapter Board Member
  
