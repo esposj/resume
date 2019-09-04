@@ -142,10 +142,13 @@ BIND 9 DNS, Active Directory, OpenLDAP, Samba, NFS, Postfix, SMTP
 **Certifications**
 
 --------------------
+**Red Hat Certification #140-128-224**
+- Red Hat Certified Specialist in Ansible Automation (June 2020)
+- Red Hat Certified Engineer (June 2020)
+- Red Hat Certified System Administrator (June 2020)
 
-2013 **Red Hat Certified Engineer (RHCE)**
-2013 **Red Hat Certified Systems Administrator (RHCSA)**
-
+**Google Certification #zaVWvt**
+- Google Certified Professional Cloud Architect (May 2021)
 **Volunteering and Rewards**
 
 ------------------------
