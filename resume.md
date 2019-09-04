@@ -5,27 +5,6 @@ Joseph E. Esposito
 10304 Admirals Walk Drive Cohoes, NY 12047 | 518-542-8383 | joe@j-espo.com
 
 
-
-**Technical Skills**
-
-----------------
-
-**Platforms:** Red Hat, Centos, Ubuntu, Debian Linux. Virtualization with KVM and VMWare ESXi.  Cloud platforms including Linode (300 Nodes), Rackspace Cloud (20 Nodes), and Amazon EC2 (R&D). Solaris 8, Windows 2000-7, Windows Server 2008R2, Mac OS X 10.0 - 10.10 (Desktop OS of choice)
-
-**System Automation:** Puppet, Perl, PHP, BASH, Rackspace Cloud API, Linode Stack Scripts, Capistrano.
-
-**Core IT Services:** BackupPC (6TB), Crashplan (2TB) Nagios with Check_MK (300+ nodes), Jira Ticketing and Confluence WIKI, Github (Git) Version Control System.
-
-**Application Platforms:** Apache, NGINX, PHP-FPM, mod-jk, Tomcat
-
-**Database Systems:** Percona MySQL Clusters, MongoDB Clusters,Monitoring, Tuning,  Backup and Recovery.
-
-**Caching Systems:** APC, Redis, Memcached
-
-**Email Systems:** Zimbra, Postfix, Courier IMAP, Spam Assassin
-
-**Networking** PFSense (routing,firewall,high availability), iptables, Squid, OpenSSH, OpenVPN, Linux Bonding and Bridging, BIND 9 DNS, Active Directory, OpenLDAP, Samba, NFS
-
 **Professional Experience**
 
 -----------------------
@@ -129,6 +108,18 @@ Summers 1997-1999, Winter 1999 **Graver Water Systems, INC** New Providence, NJ
 
 * Worked with client's IT departments to test and verify systems for field deployment.
 
+
+**Technical Skills**
+
+----------------
+
+**Operating Systems** Red Hat, Ubuntu, Debian, Microsoft Windows Server, VMWare ESXi, PFSense, MacOS
+**Cloud Platforms**Rackspace Cloud, AWS, GCP, Linode
+**System Automation:** Ansible, Python, Bash, Perl, PHP, Puppet
+**Application Platforms:** Apache, NGINX, PHP-FPM, mod-jk, Tomcat, NodeJS
+**Database Systems:** Percona MySQL Clusters, MongoDB Clusters,Monitoring, Tuning,  Backup and Recovery.
+**Caching Systems:** APC, Redis, Memcached
+**Networking** PFSense (routing,firewall,high availability), iptables, Squid, OpenSSH, OpenVPN, Linux Bonding and Bridging, BIND 9 DNS, Active Directory, OpenLDAP, Samba, NFS, Postfix, SMTP
 
 
 **Education**
