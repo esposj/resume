@@ -106,8 +106,7 @@ Summers 1997-1999, Winter 1999 **Graver Water Systems, INC** New Providence, NJ
 * Worked with client's IT departments to test and verify systems for field deployment.
 
 
-##Technical Skills
-
+## Technical Skills
 
 **Operating Systems** Red Hat, Ubuntu, Debian, Microsoft Windows Server, VMWare ESXi, PFSense, MacOS
 
@@ -125,9 +124,7 @@ Summers 1997-1999, Winter 1999 **Graver Water Systems, INC** New Providence, NJ
 BIND 9 DNS, Active Directory, OpenLDAP, Samba, NFS, Postfix, SMTP
 
 
-**Education**
-
----------
+## Education
 
 1997-2002 **Rensselaer Polytechnic Institute Troy, NY**
 
@@ -136,9 +133,8 @@ BIND 9 DNS, Active Directory, OpenLDAP, Samba, NFS, Postfix, SMTP
 1993-1997 **Bergen Catholic High School Oradell, NY**
 
 
-**Certifications**
+## Certifications
 
---------------------
 **Red Hat Certification #140-128-224**
 - Red Hat Certified Specialist in Ansible Automation (June 2020)
 - Red Hat Certified Engineer (June 2020)
@@ -148,7 +144,7 @@ BIND 9 DNS, Active Directory, OpenLDAP, Samba, NFS, Postfix, SMTP
 - Google Certified Professional Cloud Architect (May 2021)
 
 
-**Volunteering, Speaking  and Rewards**
+## Volunteering, Speaking  and Rewards
 
 ------------------------
 2013 - Present **Huntington's Disease Society of America**
